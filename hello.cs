@@ -7,6 +7,7 @@ namespace HelloAppBlack
         static void Main(string[] args)
         {
             SayHello();
+            greetWhite();
         }
 
         static void SayHello()
